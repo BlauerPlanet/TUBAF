@@ -26,5 +26,7 @@ Check if the Zotero Word for Windows Integration is installed and enabled. (Tool
 Then you can choose Freiberg ecology online within the first use of Zotero in a new document.
 
 Some tips:
-If you have two documents with the same author and year, check that the author format (either Max Mustermann or Mustermann, Max) is for both the same. Then you will get the (Mustermann, 20xx a&b) in the inline citations and the a and b in the corresponding bibliography entrys. 
+If you have two documents with the same author and year, check that the author format (either Max Mustermann or Mustermann, Max) is for both the same. Then you will get the (Mustermann 20xx a&b) in the inline citations and the a and b in the corresponding bibliography entrys. 
+
+For text like: according to Mustermann (20xx) you have to manually edit the inline citation made by Zotero.
 
