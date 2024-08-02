@@ -20,3 +20,11 @@ Alternatively you can go to Zotero Settings>Citation>and then add with the plus 
 
 ![grafik](https://github.com/user-attachments/assets/19eccdf4-a2e9-490e-8d0e-e560472404ce)
 
+## How to use within Word
+
+Check if the Zotero Word for Windows Integration is installed and enabled. (Tools>Add-ons)
+Then you can choose Freiberg ecology online within the first use of Zotero in a new document.
+
+Some tips:
+If you have two documents with the same author and year, check that the author format (either Max Mustermann or Mustermann, Max) is for both the same. Then you will get the (Mustermann, 20xx a&b) in the inline citations and the a and b in the corresponding bibliography entrys. 
+
