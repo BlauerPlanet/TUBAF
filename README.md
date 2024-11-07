@@ -13,7 +13,7 @@ For Citations with more than 5 authors: the bibliography will only show these fi
 
 First download Zotero (free): https://www.zotero.org/
 
-Download the FECOFINAL.csl and double-click. A pop up will show up and ask you to ninstall the Citation Style in Zotero.
+Download the FECOFINAL.csl and double-click. A pop up will show up and ask you to install the Citation Style in Zotero.
 
 ![grafik](https://github.com/user-attachments/assets/1f09678f-21aa-42ee-a43c-a4336b636cef)
 
