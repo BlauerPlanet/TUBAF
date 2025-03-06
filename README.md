@@ -8,6 +8,7 @@ The in-line citation should correspond well to the formatting rules of the Freib
 
 However in the Bibliography, some minor tweaks from the user could be necessary (e.g. adding missing spaces (Leerzeichen); adding unpubl. next to the year of unpublished thesis). 
 For Citations with more than 5 authors: the bibliography will only show these first five authors and then et al.
+Between the last to authors or the last displayed author and the et al. the &-symbol will be shown according to the citation rules by FECO.
 
 ## How to use within Zotero
 
