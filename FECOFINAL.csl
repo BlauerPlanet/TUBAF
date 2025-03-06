@@ -36,7 +36,7 @@
     </choose>
     <group delimiter=" ">
       <names variable="author" font-weight="normal">
-        <name delimiter=", " initialize-with="." name-as-sort-order="all" delimiter-precedes-last="always" and="symbol"/> <!--and="text" wirtes the word and in the language of the csl (here: german), "symbol shows &" -->
+        <name delimiter=", " initialize-with="." name-as-sort-order="all" delimiter-precedes-last="never" and="symbol"/> <!--and="text" wirtes the word and in the language of the csl (here: german), "symbol shows &" -->
         <label form="short" prefix=" (" suffix=")"/>
         <substitute>
           <names variable="editor"/>
