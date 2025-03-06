@@ -1,5 +1,3 @@
-<!--& symbol encoded as &amp; while it is called ampersand-->
-
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="de-DE">
   <!-- Dieser Stil wurde auf Basis des Stils der Professuren der Geowissenschaften an der TU Dresden erstellt (Originalautorin: Lena Manuela Zimmermann) und an die Anforderungen der Zeitschrift Freiberg Ecology Online (Stand: März 2024) angepasst. -->
@@ -23,7 +21,7 @@
   </info>
   <locale xml:lang="de">
     <terms>
-      <term name="et-al">et al.</term>
+      <term name="et-al">et al.</term> <!--& symbol encoded as &amp; while it is called ampersand-->
       <term name="editor" form="short">Hrsg.</term>
       <term name="online">Online unter</term>
       <term name="volume">Band</term>
