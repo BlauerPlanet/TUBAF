@@ -16,12 +16,12 @@
     <category field="linguistics"/>
     <category field="literature"/>
     <summary>Zitierstil entsprechend den Absprachen von Professuren der Geowissenschaften der Technischen Universität Dresden. Der Stil orientiert sich an der Handreichung 'Wissenschaftlich arbeiten und schreiben (Stand: April 2023)'</summary>
-    <updated>2024-11-07T21:50:00+00:00</updated>
+    <updated>2022-07-10T23:47:45+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
     <terms>
-      <term name="et-al">et al.</term>
+      <term name="et-al">&amp; et al.</term><!--& symbol encoded as &amp; while it is called ampersand-->
       <term name="editor" form="short">Hrsg.</term>
       <term name="online">Online unter</term>
       <term name="volume">Band</term>
@@ -36,7 +36,7 @@
     </choose>
     <group delimiter=" ">
       <names variable="author" font-weight="normal">
-        <name delimiter=", " initialize-with="." name-as-sort-order="all"/>
+        <name delimiter=", " initialize-with="." name-as-sort-order="all" delimiter-precedes-last="always" and="symbol"/> <!--and="text" wirtes the word and in the language of the csl (here: german), "symbol shows &" -->
         <label form="short" prefix=" (" suffix=")"/>
         <substitute>
           <names variable="editor"/>
