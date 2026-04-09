@@ -102,7 +102,10 @@ plot(st_geometry(germany), add = TRUE, lwd = 2)
 
 # need to set path for saving files to and read from since the files are in the range of 1.5-2GB and therefore to big for the workingdir which is set to the github repo
     # so around 80 GB of free space needed
-p="..." # change to the path on your system
+
+# change to the path on your system
+# important use / instead of \ on windows and add a ending / (necessary since then the filename is added to the string via paste0())
+p="..." 
 
 # result is a named list with temp and ppt as entries (which themselves are alos lists of different years)
 # access e.g. via result_current$temp
